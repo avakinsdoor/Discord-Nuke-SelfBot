@@ -19,7 +19,7 @@ This is a self bot for discord. This is basically a bot in your discord account 
 3. Select 'python' as a language
 4. Now give your repl a cool name
 5. Then click on 'create repl'
-6. Copy and paste the code you can find [here](https://google.com) in your repl
+6. Copy and paste the code you can find [here](https://github.com/MrSnowmanGithub/Discord-Nuke-SelfBot/blob/main/main.py) in your repl
 7. Now make a file by clicking here: 
 <img width="1439" alt="Screenshot 2021-05-10 at 11 31 03" src="https://user-images.githubusercontent.com/81933028/117638588-487e4900-b183-11eb-9f39-e1a030caed6c.png">
 8. Name the file config.json
